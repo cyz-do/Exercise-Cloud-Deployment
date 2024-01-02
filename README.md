@@ -2,6 +2,7 @@
 ![Module1-Deployment](https://github.com/cyz-do/Exercise-Cloud-Deployment/assets/93310239/557fce23-9623-48fe-bea6-8d4edf41028b)
 
 The static HTML website is hosted on AWS EC2, utilizing the Apache HTTP server on port 80.
+
 URL: ec2-18-141-172-26.ap-southeast-1.compute.amazonaws.com:80
 
 
